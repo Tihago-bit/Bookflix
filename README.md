@@ -26,4 +26,6 @@ El proyecto está dividido en dos partes principales: un **Frontend** construido
 ### Base de Datos
 - **MySQL**: Base de datos relacional para almacenar usuarios, libros y calificaciones.
 
-```![Diagrama de Gantt](docs/Listadetareas+Gantt.png) ![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
+```![Diagrama de Gantt](docs/Listadetareas+Gantt.png)
+
+```![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
