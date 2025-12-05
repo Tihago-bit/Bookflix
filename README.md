@@ -26,9 +26,4 @@ El proyecto está dividido en dos partes principales: un **Frontend** construido
 ### Base de Datos
 - **MySQL**: Base de datos relacional para almacenar usuarios, libros y calificaciones.
 
-git clone <URL_DE_TU_REPOSITORIO>
-cd Bookflix
-
-```![Diagrama de Gantt](docs/Listadetareas+Gantt.png)
-
-```![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
+```![Diagrama de Gantt](docs/Listadetareas+Gantt.png) ![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
