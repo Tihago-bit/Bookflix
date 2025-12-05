@@ -28,7 +28,7 @@ El proyecto está dividido en dos partes principales: un **Frontend** construido
 
 git clone <URL_DE_TU_REPOSITORIO>
 cd Bookflix
-```
-![Diagrama de Gantt](docs/Listadetareas+Gantt.png)	
 
-![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
+```![Diagrama de Gantt](docs/Listadetareas+Gantt.png)
+
+```![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
