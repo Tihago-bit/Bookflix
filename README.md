@@ -36,6 +36,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local.
 ```bash
 git clone <URL_DE_TU_REPOSITORIO>
 cd Bookflix
+```
 ![Diagrama de Gantt](docs/Listadetareas+Gantt.png)	
 
 ![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
