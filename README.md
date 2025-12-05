@@ -1,4 +1,4 @@
-# 📚 Bookflix
+ # 📚 Bookflix
 
 **Bookflix** es una aplicación web de biblioteca digital que permite a los usuarios registrarse, iniciar sesión, explorar un catálogo de libros clasificados por categorías y leer detalles o visualizar archivos PDF de las obras.
 
@@ -26,6 +26,6 @@ El proyecto está dividido en dos partes principales: un **Frontend** construido
 ### Base de Datos
 - **MySQL**: Base de datos relacional para almacenar usuarios, libros y calificaciones.
 
-```![Diagrama de Gantt](docs/Listadetareas+Gantt.png)
+![Diagrama de Gantt](docs/Listadetareas+Gantt.png)
 
-```![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
+![Diagrama PERT-CPM](docs/CPM3.0drawio.drawio.png)
