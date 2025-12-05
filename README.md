@@ -2,7 +2,7 @@
 
 **Bookflix** es una aplicación web de biblioteca digital que permite a los usuarios registrarse, iniciar sesión, explorar un catálogo de libros clasificados por categorías y leer detalles o visualizar archivos PDF de las obras.
 
-El proyecto está dividido en dos partes principales: un **Frontend** moderno construido con React y Vite, y un **Backend** robusto desarrollado con Node.js y Express conectado a una base de datos MySQL.
+El proyecto está dividido en dos partes principales: un **Frontend** construido con React y Vite, y un **Backend** desarrollado con Node.js y Express conectado a una base de datos MySQL.
 
 ---
 
@@ -26,14 +26,6 @@ El proyecto está dividido en dos partes principales: un **Frontend** moderno co
 ### Base de Datos
 - **MySQL**: Base de datos relacional para almacenar usuarios, libros y calificaciones.
 
----
-
-## ⚙️ Instalación y Configuración
-
-Sigue estos pasos para ejecutar el proyecto en tu entorno local.
-
-### 1. Clonar el repositorio
-```bash
 git clone <URL_DE_TU_REPOSITORIO>
 cd Bookflix
 ```
