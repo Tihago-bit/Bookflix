@@ -1,2 +1,2 @@
 
-![Diagrama de Gantt](docs/listadetareas+Gantt.png)	
+[Diagrama de Gantt](docs/listadetareas+Gantt.png)	
