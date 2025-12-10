@@ -21,7 +21,6 @@ El proyecto está dividido en dos partes principales: un **Frontend** construido
 - **MySQL2**: Cliente para conectar con la base de datos MySQL.
 - **Bcrypt**: Para el hasheo y seguridad de las contraseñas.
 - **Cors**: Para permitir peticiones entre el frontend y el backend.
-- **Nodemon**: Para el desarrollo continuo.
 
 ### Base de Datos
 - **MySQL**: Base de datos relacional para almacenar usuarios, libros y calificaciones.
