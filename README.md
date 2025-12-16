@@ -29,7 +29,7 @@ El proyecto está dividido en dos partes principales: un **Frontend** construido
 ![Gantt](docs/Gantt.png).
 
 # Lista de tareas
-![Lista de Tareas](docs/Lista.png)
+![Lista](docs/Lista.png)
 
 # Gantt + Lista de tareas
 ![Diagrama de Gantt](docs/Listadetareas+Gantt.png)
